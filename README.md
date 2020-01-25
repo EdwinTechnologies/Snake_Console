@@ -8,6 +8,12 @@ Text-Based 'Snake Game' that runs using only a console like 'cmd.exe'
 
 To run this program you need the *.NET Framework 4.5* (or higher) *(Windows)*
 
+###NOTE
+
+**WORKS BEST IN CMDER (https://cmder.net/)**
+
+**THE WINDOWS 10 CONSOLE CAN CAUSE FLICKERING!**
+
 ```
 Download the .NET Framework:
 
